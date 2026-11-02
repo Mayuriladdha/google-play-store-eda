@@ -43,15 +43,6 @@ This project aims to analyze Google Play Store applications to identify factors 
 
 *Numerical findings and percentages will be added after calculating the results from the dataset.*
 
-## Charts
-
-![Category Distribution](images/category-distribution.png)
-
-![Ratings Distribution](images/ratings.png)
-
-![App Installs by Category](images/installs-by-category.png)
-
-![Free vs Paid Apps](images/free-vs-paid.png)
 
 ## Tech Stack
 - Python
